@@ -16,11 +16,7 @@ A desktop weather application developed using Python and PyQt5. It allows users 
 - PyQt5 – Graphical User Interface (GUI)
 - OpenWeatherMap API – Real-time weather data
 - Requests – Fetching data from the API
-
-## 📸 Application Screenshot
-
-![Weather App Screenshot](weather_app.png)
-
+  
 🚀 How to Run
 1. Install Python.
 2. Download or clone this repository.
