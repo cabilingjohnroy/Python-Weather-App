@@ -33,6 +33,17 @@ A desktop weather application developed using Python and PyQt5. It allows users 
 
 ![Weather App Screenshot](weather_app.png)
 
+📥 Download Weather App
+
+Download the latest version of my Python Weather App for Windows.
+
+[Download Weather App](https://github.com/cabilingjohnroy/Python-Weather-App/releases/latest)
+
+Requirements
+- Windows 10 or 11
+- Internet connection
+- OpenWeatherMap API key configured as `OPENWEATHER_API_KEY`
+
 🎯 Project Purpose
 This project was created to practice Python programming, GUI development, API integration, and error handling. It demonstrates how to build an interactive desktop application using real-time data.
   
