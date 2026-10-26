@@ -28,7 +28,10 @@ A desktop weather application developed using Python and PyQt5. It allows users 
 5. Run the application:
 
    `python weather_app_gui.py`
+   
+📸 Application Screenshot
 
+![Weather App Screenshot](weather_app.png)
 
 🎯 Project Purpose
 This project was created to practice Python programming, GUI development, API integration, and error handling. It demonstrates how to build an interactive desktop application using real-time data.
